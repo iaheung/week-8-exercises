@@ -1,0 +1,4 @@
+/mnt/c/Users/Ian/Desktop/UCL/Term 2/Research Computing w C++/Week 8/week-8-exercises/pi/build/CMakeFiles/pi.dir
+/mnt/c/Users/Ian/Desktop/UCL/Term 2/Research Computing w C++/Week 8/week-8-exercises/pi/build/CMakeFiles/test.dir
+/mnt/c/Users/Ian/Desktop/UCL/Term 2/Research Computing w C++/Week 8/week-8-exercises/pi/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Ian/Desktop/UCL/Term 2/Research Computing w C++/Week 8/week-8-exercises/pi/build/CMakeFiles/rebuild_cache.dir

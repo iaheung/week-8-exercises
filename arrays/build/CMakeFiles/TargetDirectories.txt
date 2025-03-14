@@ -1,0 +1,3 @@
+/mnt/c/Users/Ian/Desktop/UCL/Term 2/Research Computing w C++/Week 8/week-8-exercises/arrays/build/CMakeFiles/array_reduction.dir
+/mnt/c/Users/Ian/Desktop/UCL/Term 2/Research Computing w C++/Week 8/week-8-exercises/arrays/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Ian/Desktop/UCL/Term 2/Research Computing w C++/Week 8/week-8-exercises/arrays/build/CMakeFiles/rebuild_cache.dir

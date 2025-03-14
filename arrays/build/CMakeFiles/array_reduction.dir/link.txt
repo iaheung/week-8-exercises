@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/array_reduction.dir/array_reductions.cpp.o -o array_reduction  /usr/lib/gcc/x86_64-linux-gnu/11/libgomp.so /usr/lib/x86_64-linux-gnu/libpthread.a 

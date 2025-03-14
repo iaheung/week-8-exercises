@@ -1,6 +1,7 @@
 #include <iostream>
 #include <random>
 #include <vector>
+#include <omp.h>
 
 using namespace std;
 
@@ -11,6 +12,7 @@ int main()
 
     const int N = 100000;
     vector<double> rand_list(N);
+    
     for(int i = 0; i < N; i++)
     {
         rand_list[i] = dist(rng);
@@ -23,6 +25,7 @@ int main()
         histogram[i] = 0;
     }
 
+    #pragma omp parallel for reduction(+:histogram[:bins])
     for (int i = 0; i < N; i++)
     {
         double x = rand_list[i];
