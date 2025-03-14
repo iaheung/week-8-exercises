@@ -16,8 +16,12 @@ int main()
         rand_list[i] = dist(rng);
     }
 
-    const int bins = 101;
-    vector<int> histogram(bins, 0);
+    const unsigned int bins = 101;
+    int histogram[bins];
+    for(size_t i = 0; i < bins; i++)
+    {
+        histogram[i] = 0;
+    }
 
     for (int i = 0; i < N; i++)
     {
